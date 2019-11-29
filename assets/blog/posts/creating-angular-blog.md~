@@ -11,7 +11,7 @@
 
 Angular allows me to create a clean, responsive and dynamic website. Angular provides a way for me to load in assets from the disk or external resources (which is always a +) without needing to write jquery scripts. Serving a single-page website is also really pleasant since I don't need to write much HTML on each page to render correctly or to have a nav-bar. 
 
-Others might argue that Angular is overkill for such a small use-case, and you are probably right. Responsiveness can be achieved with other frameworks, even only using HTML5 with Bootstrap will work just as well. The key thing about using Angular for me was that I already knew how to use it and wanted an easy way to load in posts without much formatting or updating of my code. 
+Others might argue that Angular is overkill for such a small use-case, and you probably are right. Responsiveness can be achieved with other frameworks, even only using HTML5 with Bootstrap will work just as well. The key thing about using Angular for me was that I already knew how to use it and wanted an easy way to load in posts without much formatting or updating of my code. 
 
 Vue.Js and ReactNative both look like awesome frameworks to use, and I will probably dabble in them in the future - but alas, for now, I shall stick with Angular.
 
